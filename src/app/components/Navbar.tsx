@@ -107,7 +107,3 @@ export default Navbar;
  
 
 
-{/* <div className="indicator">
-              <ShoppingBagIcon className="h-7 w-7 group-hover:text-gray-400 duration-300" />
-              <span className="badge badge-sm font-semibold indicator-item text-myBlack group-hover:text-mywhite group-hover:bg-myBlack">8</span>
-            </div> */}

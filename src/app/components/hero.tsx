@@ -84,15 +84,6 @@ async function getData() {
 
 export default Hero
 
-
-
-// Your Style, Your Way – Find the Perfect Fit for Every Day!
-//  <div className="mb-6 flex w-full flex-col justify-center sm:mb-12 lg:mb-0 lg:w-1/3 lg:pb-24 lg:pt-48">
-//<h1 className="mb-4 text-4xl font-bold text-black sm:pt-24 sm:text-5xl md:mb-8 md:text-6xl">SwiftBuy. <span> Because Fast Is The New Normal</span></h1>
-//<p className="max-w-md leading-relaxed text-gray-800 xl:text-lg">
-//Shop now and discover style essentials for every wardrobe.
-//  </p>
-//</div>
-//  
+ 
 
 

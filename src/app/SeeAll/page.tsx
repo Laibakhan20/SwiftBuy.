@@ -1,4 +1,3 @@
-// /src/app/see-all/page.tsx
 
 import { client } from "@/lib/sanityclient";
 import { simplifiedProduct } from "../interface";

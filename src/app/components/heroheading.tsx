@@ -1,4 +1,4 @@
-"use client"; // Ensure this component is treated as a client component
+"use client"; 
 
 import { motion } from 'framer-motion';
 

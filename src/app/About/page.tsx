@@ -6,7 +6,7 @@ import Image from "next/image";
 const AboutPage = () => {
     return (
         <div className="text-center mx-auto mt-5 md:mt-3 lg:mt-9 max-w-2xl px-4 sm:pb-6 lg:max-w-7xl lg:px-8 mb-[100px] flex flex-col items-center justify-center">
-            {/* Hero Section with Background Image */}
+            {/* Hero Section */}
             <motion.div
                 className="relative w-full h-[50vh] md:h-[60vh] lg:h-[70vh] mb-12 overflow-hidden rounded-lg flex items-center justify-center"
                 initial={{ opacity: 0 }}
